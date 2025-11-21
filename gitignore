@@ -1,0 +1,15 @@
+General
+
+.DS_Store
+
+Node modules (if later used)
+
+node_modules/
+
+Logs
+
+logs/ *.log
+
+Temp files
+
+.tmp .cache
